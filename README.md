@@ -22,10 +22,6 @@
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mah-noor-b140a92b5) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/MahnoorTech486) 
-
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Mahnoor-Tech&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Mahnoor-Tech&theme=radical&hide_border=true)<br/>
@@ -34,8 +30,5 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Mahnoor-Tech&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Quote for YOU!
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
