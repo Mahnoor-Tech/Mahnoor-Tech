@@ -2,7 +2,7 @@
 🔭 I’m graduated in Software Engineering and completed the MERN stack.<br>
 👯 I’m looking to collaborate on open-source projects related to web development.<br>
 💡 I’m currently learning Generative AI.<br>
-📫 How to reach me: [LinkedIn]([https://www.linkedin.com/in/jordancutler1/](https://www.linkedin.com/in/mah-noor-b140a92b5/)) and [Twitter]([https://careercutler.substack.com/](https://twitter.com/MahnoorTech486))
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mah-noor-b140a92b5/) and [Twitter](https://twitter.com/MahnoorTech486)
 
 [![](https://visitcount.itsvg.in/api?id=Mahnoor-Tech&icon=0&color=0)](https://visitcount.itsvg.in)
 
