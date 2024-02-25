@@ -4,7 +4,7 @@
 💡 I’m currently learning Generative AI.<br>
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mah-noor-b140a92b5/) and [Twitter](https://twitter.com/MahnoorTech486)
 
-[![](https://visitcount.itsvg.in/api?id=Mahnoor-Tech&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Mahnoor-Tech&label=Profile%20views&color=0e75b6&style=flat" alt="Mahnoor-Tech" /> </p>
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
