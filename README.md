@@ -1,7 +1,7 @@
 # Hi 👋, I'm Mahnoor. 
 👩‍🎓 I’m graduated in Software Engineering and completed the MERN stack.<br>
 👯 I’m looking to collaborate on open-source projects related to web development.<br>
-💡 I’m currently learning Generative AI.<br>
+💡 I’m currently learning Cloud Applied Generative AI.<br>
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mah-noor-1109192b7/) and [Twitter](https://twitter.com/MahnoorTech486)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Mahnoor-Tech&label=Profile%20views&color=0e75b6&style=flat" alt="Mahnoor-Tech" /> </p>
