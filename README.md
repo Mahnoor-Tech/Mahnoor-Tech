@@ -1,7 +1,7 @@
-# Hi 👋, I'm Mahnoor. 
-👩‍🎓 I’m graduated in Software Engineering and certified MERN full Stack Dev.<br>
+# Hi 👋, I'm Mahnoor. <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30">
+👨‍💻 I’m graduated in Software Engineering and certified MERN full Stack Dev.<br>
 👯 I’m looking to collaborate on open-source projects related to web development.<br>
-🌱 I’m currently learning Cloud Applied Generative AI.<br>
+🚀 I’m currently learning Cloud-Applied Generative AI.<br>
 ⚡ Fun fact: I'm passionate about creating engaging and informative content.<br>
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mah-noor-1109192b7/) and [Twitter](https://twitter.com/MahnoorTech486)
 
