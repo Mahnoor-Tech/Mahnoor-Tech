@@ -1,6 +1,6 @@
 # Hi 👋, I'm Mahnoor. 
 
-<img align="right" width="350" style:"margin-bottom: 10px"
+<img align="right" width="350" style="margin-bottom:10px;"
 	src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
  
 👨‍💻 I’m graduated in Software Engineering and certified MERN full Stack Dev.<br>
