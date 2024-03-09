@@ -1,4 +1,4 @@
-# Hi 👋, I'm Mahnoor. <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30">
+# Hi 👋, I'm Mahnoor. 
 👨‍💻 I’m graduated in Software Engineering and certified MERN full Stack Dev.<br>
 👯 I’m looking to collaborate on open-source projects related to web development.<br>
 🚀 I’m currently learning Cloud-Applied Generative AI.<br>
@@ -23,7 +23,7 @@
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
-# 📊 GitHub Stats:
+# <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30"> GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Mahnoor-Tech&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Mahnoor-Tech&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahnoor-Tech&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
