@@ -5,6 +5,9 @@
 ⚡ Fun fact: I'm passionate about creating engaging and informative content.<br>
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mah-noor-1109192b7/) and [Twitter](https://twitter.com/MahnoorTech486)
 
+<img align="right" alt="Coding" width="400" style="border-radius:20px;"
+	src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Mahnoor-Tech&label=Profile%20views&color=0e75b6&style=flat" alt="Mahnoor-Tech" /> </p>
 
 # 💻 Tech Stack:
