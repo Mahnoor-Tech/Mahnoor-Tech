@@ -5,7 +5,7 @@
  
 👨‍💻 I’m graduated in Software Engineering and certified MERN full Stack Dev.<br>
 👯 I’m looking to collaborate on open-source projects related to web development.<br>
-🚀 I’m currently learning Cloud-Applied Generative AI.<br>
+🚀 I’m currently learning GenAI, Web3 and Metaverse.<br>
 ⚡ Fun fact: I'm passionate about creating engaging and informative content.<br>
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mah-noor-1109192b7/) and [Twitter](https://twitter.com/MahnoorTech486)
 
